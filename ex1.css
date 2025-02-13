@@ -1,0 +1,38 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #231651;
+    font-size: 100%;
+    line-height: 1.6;
+    box-sizing: border-box;
+}
+li{
+    padding-left: 35px;
+    margin-bottom: 5px;
+    display: list-item;
+    list-style: none;
+    margin-left: 0px;
+    background: url(https://rikkei.edu.vn/wp-content/themes/hoabinhweb-v3-154-child-theme/image/icon-check.png) no-repeat top left;
+}
+.btn button{
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    border: 1px solid red;
+    padding: 10px;
+}
+.btn span{
+    border-radius: 5px;
+    color: #231651;
+    border: 1px solid #231651;
+    padding: 10px;
+    font-size: 14px;
+}
+ul{
+    margin-top: 0;
+    padding: 0;
+}
